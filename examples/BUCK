@@ -1,0 +1,9 @@
+cxx_binary(
+  name = 'whereAmI',
+  srcs = [
+    'whereAmI.cpp',
+  ],
+  deps = [
+   '//:apathy',
+  ],
+)

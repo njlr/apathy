@@ -2,3 +2,6 @@
 test
 driver
 driver.cpp
+.buckd
+.buckconfig
+buck-out

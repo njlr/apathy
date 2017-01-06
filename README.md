@@ -18,6 +18,8 @@ in your code (this works particularly well with
 
 It imports a single member `Path` in the `apathy` namespace.
 
+You can also use the supplied `BUCK` file to import Apathy into your project. The target is `apathy`.
+
 Usage
 =====
 Most of the path manipulators return a reference to the current path, so that
